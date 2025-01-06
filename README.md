@@ -209,30 +209,27 @@ const odeneho = {
     ]
 };
 ```
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Odeneho-Calculus&theme=radical)
-
+<!--
 ## 🎯 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Building Scalable Systems with Microservices](your-blog-url)
 - [Advanced TypeScript Patterns for Enterprise Applications](your-blog-url)
 - [Cloud Native Architecture Best Practices](your-blog-url)
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 ## 🤝 Open Source Contributions
 
 - **[Project Name]**: Implemented feature X that improved performance by Y%
 - **[Framework Name]**: Core contributor, maintained Z module
 - **[Library Name]**: Created documentation and examples
-
+-->
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [your-portfolio-url](your-portfolio-url)
-- 📧 Email: your.email@domain.com
-- 🐦 Twitter: [@your_handle](your-twitter-url)
-- 💼 LinkedIn: [Your Name](your-linkedin-url)
+- 🌐 Portfolio: [Visit](https://kalculusportfolio.vercel.app)
+- 📧 Email: calculus069@gmail.com
+- 🐦 Twitter: [@antwiThomas](#)
+- 💼 LinkedIn: [Antwi Thomas](#)
 
 <div align="center">
 
